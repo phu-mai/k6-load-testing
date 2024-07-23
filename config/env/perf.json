@@ -1,0 +1,26 @@
+{
+  "environmentName": "perf",
+  "userGroup": "65d4486ac5abb9378b652666",
+  "defaultUserPassword": "4srcrHN!^vpSar3",
+  "whatsappWebhookToken": "ai3o39HAlslsmsh3u373822jlsslkValksksw",
+  "company": {
+    "name": "disney",
+    "id": "65d44869c5abb9378b652660"
+  },
+  "organizationUser": {
+    "userName": "moana",
+    "passWord": "Testing@1234567",
+    "userId": "65d44920c5abb9378b65266a",
+    "bearerToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.xxxxxxxxxxxxxx.m2tcqEX8ro3mEsq-LCpE_9nhorQ-105zGlHmudj-vDE"
+  },
+  "endpoints": {
+    "api": "api.evilmonkey.leapxpert.dev",
+    "message": "messaging.evilmonkey.leapxpert.dev",
+    "web": "web.evilmonkey.leapxpert.dev",
+    "public": "public.evilmonkey.leapxpert.dev"
+  },
+  "apiVersion": "v1",
+  "dlpMessages": {
+    "bannedMessage": "This message has been blocked by the organization's security policy."
+  }
+}
